@@ -1,0 +1,2 @@
+Basic Katas of git.
+Very basic creation of commits.
